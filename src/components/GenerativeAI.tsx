@@ -11,7 +11,7 @@ const GenerativeAI = () => {
     </Center>
     <div>
         <iframe
-            src="https://mihirrajeshpanchal-zocket-hackathon-sam.hf.space"
+            src="https://stabilityai-stable-diffusion.hf.space"
             width="100%"
             height="450"
             ></iframe>
