@@ -2,8 +2,13 @@
 
 ## Overview
 
-[![Watch the Video](data/luggage.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+https://github.com/MihirRajeshPanchal/zocket-hackathon/assets/78205431/121368b4-3b85-4af8-883e-66f502a8923a
 
+[![Watch the Video](outputs/1.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+[![Watch the Video](outputs/2.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+[![Watch the Video](outputs/3.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+[![Watch the Video](outputs/4.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+[![Watch the Video](outputs/5.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
 
 In the dynamic landscape of e-commerce, the visual representation of products plays a pivotal role in capturing customer attention and driving sales. This project aims to address this challenge by developing an innovative AI solution that combines generative capabilities for product photoshoot visuals and an intelligent filter for product recognition. The solution targets a predefined list of products, including shoes, apparel, electronics, and accessories.
 
@@ -61,6 +66,3 @@ We welcome contributions and enhancements to this project. Please follow the gui
 ## License
 
 This project is licensed under the [MIT License](LICENSE), granting participants the freedom to use, modify, and distribute the code within the specified terms.
-
----
-**Note:** Participants are encouraged to maintain clear and concise documentation throughout the development process, providing detailed information on model architectures, training procedures, and any additional tools or libraries used.
