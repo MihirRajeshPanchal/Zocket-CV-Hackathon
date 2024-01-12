@@ -37,7 +37,7 @@ const LinkItems: Array<LinkItemProps> = [
   { name: 'Generative AI', icon: FiCompass },
   { name: 'Object Segmentation', icon: FiHome },
   { name: 'Chatbot', icon: FiTrendingUp },
-  { name: 'About Us', icon: FiStar },
+  { name: 'About Myself', icon: FiStar },
 ]
 
 
@@ -53,7 +53,7 @@ export default function SimpleSidebar() {
         return <ObjectSegmentation />;
       case 'Chatbot':
         return <Chatbot />;
-      case 'About Us':
+      case 'About Myself':
         return <AboutUs />;
       default:
         return null;
