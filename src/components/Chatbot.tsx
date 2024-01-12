@@ -13,7 +13,7 @@ const GenerativeAI = () => {
         <iframe
             src="https://mihirrajeshpanchal-zocket-hackathon-genai.hf.space"
             width="100%"
-            height="450"
+            height="600"
             ></iframe>
 
     </div>

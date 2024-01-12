@@ -13,7 +13,7 @@ const GenerativeAI = () => {
         <iframe
             src="https://stabilityai-stable-diffusion.hf.space"
             width="100%"
-            height="450"
+            height="550"
             ></iframe>
 
     </div>
