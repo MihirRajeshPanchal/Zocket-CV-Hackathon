@@ -1,6 +1,6 @@
 'use client'
 
-import React, { ReactNode , useState} from 'react'
+import { useState } from 'react'
 import {
   IconButton,
   Box,
@@ -124,7 +124,6 @@ const SidebarContent = ({ onClose, handleNavItemClick, ...rest }: SidebarProps) 
 
 interface NavItemProps extends FlexProps {
   icon: IconType
-  children: ReactText
   onClick: () => void;
 }
 const NavItem = ({ icon, children,onClick, ...rest }: NavItemProps) => {

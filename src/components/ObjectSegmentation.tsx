@@ -1,19 +1,6 @@
-import React from 'react'
 import {
-  IconButton,
-  Box,
-  CloseButton,
-  Flex,
-  Image,
   Text,
   Center,
-  Icon,
-  useColorModeValue,
-  Drawer,
-  DrawerContent,
-  useDisclosure,
-  BoxProps,
-  FlexProps,
 } from '@chakra-ui/react'
 
 const ObjectSegmentation = () => {
