@@ -7,6 +7,8 @@ https://github.com/MihirRajeshPanchal/zocket-hackathon/assets/78205431/121368b4-
 [![Watch the Video](outputs/1.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
 [![Watch the Video](outputs/2.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
 [![Watch the Video](outputs/3.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+[![Watch the Video](outputs/6.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
+[![Watch the Video](outputs/7.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
 [![Watch the Video](outputs/4.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
 [![Watch the Video](outputs/5.png)]([https://drive.google.com/file/d/19f3Vt6O2SKRoY7o4M5XQqORSYlBhBY1W/view])
 
